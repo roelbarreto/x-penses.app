@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://x-penses.app/static/css/main.82e60339.css",
-    "main.js": "https://x-penses.app/static/js/main.0f969c46.js",
+    "main.js": "https://x-penses.app/static/js/main.8311905d.js",
     "static/js/27.963e5616.chunk.js": "https://x-penses.app/static/js/27.963e5616.chunk.js",
     "service-worker.js": "https://x-penses.app/service-worker.js",
     "index.html": "https://x-penses.app/index.html"
   },
   "entrypoints": [
     "static/css/main.82e60339.css",
-    "static/js/main.0f969c46.js"
+    "static/js/main.8311905d.js"
   ]
 }
